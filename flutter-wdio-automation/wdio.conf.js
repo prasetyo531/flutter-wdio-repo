@@ -58,7 +58,7 @@ exports.config = {
           "appium:automationName": "Flutter",
           "appium:adbExecTimeout": 60000,
           "appium:newCommandTimeout": 300,
-          "appium:app": "/Users/flp9prasetyoputranto/Documents/flutter/demo-app/flutter_test_app/build/app/outputs/apk/debug/app-debug.apk",
+          "appium:app": "/Users/flp9prasetyoputranto/Documents/flutter/demo-app/flutter-wdio-repo/build/app/outputs/apk/debug/app-debug.apk",
           "appium:autoGrantPermissions": true,
           "appium:skipDeviceInitialization": false,
           "appium:fullContextList": true,
